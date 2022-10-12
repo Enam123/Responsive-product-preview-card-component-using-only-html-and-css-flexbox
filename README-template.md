@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [[https://github.com/Enam123/Responsive-Product-Preview-Card-Component-Using-Html-And-Css-Flexbox](https://your-solution-url.com)](https://github.com/Enam123/Responsive-product-preview-card-component-using-only-html-and-css-flexbox)
-- Live Site URL: [https://enam123.github.io/Responsive-product-preview-card-component-using-only-html-and-css-flexbox/](https://your-live-site-url.com)
+- Live Site URL: [[https://enam123.github.io/Responsive-product-preview-card-component-using-only-html-and-css-flexbox/](https://enam123.github.io/Responsive-product-preview-card-component-using-only-html-and-css-flexbox/)](https://your-live-site-url.com)
 
 ### Built with
 
